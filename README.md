@@ -16,7 +16,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/yashwanth-k-172776299/)" target="blank">
+<a href="https://www.linkedin.com/in/yashwanth-k-172776299/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
