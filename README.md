@@ -87,7 +87,9 @@
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </p>
 ---
-
+🏅 Microsoft Learn Achievements:
+- Prepare data for analysis with Power BI
+- Choose a Power BI model framework
 ## 📊 GitHub Stats
 
 
