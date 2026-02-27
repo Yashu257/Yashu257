@@ -19,6 +19,12 @@
 <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/yashwanth-k-172776299/)" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
+
+<a href="https://github.com/Yashu257" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+  
 <a href="https://github.com/Yashu257" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
