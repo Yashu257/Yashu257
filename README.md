@@ -5,7 +5,18 @@
 ## 🏅 Holopin Badges
 
 [![Holopin badges](https://holopin.me/yashu257)](https://holopin.io/@yashu257)
+## 🏅 Microsoft Learn Achievements
 
+<p align="center">
+  <img src="data-preparation-in-power-bi.svg" height="100"/>
+  <img src="choose-power-bi-model-framework.svg" height="100"/>
+  <img src="overview-data-analysis-power-bi.svg" height="100"/>
+  <img src="introduction-end-analytics-use-microsoft-fabric.svg" height="100"/>
+  <img src="azure-introduction-to-azure-search.svg" height="100"/>
+  <img src="deploy-consume-models-azure-machine-learning.svg" height="100"/>
+  <img src="deploy-model-managed-online-endpoint.svg" height="100"/>
+  <img src="explore-azure-machine-learning-workspace-resources-assets.svg" height="100"/>
+</p>
 
 ## 🚀 About Me
 
