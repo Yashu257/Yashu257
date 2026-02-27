@@ -2,23 +2,7 @@
 <h3 align="center">Python | AI/ML | Full Stack Enthusiast 🚀</h3>
 
 ---
-## 🏅 Holopin Badges
 
-[![Holopin badges](https://holopin.me/yashu257)](https://holopin.io/@yashu257)
-
-## 🏅 Microsoft Learn Achievements
-
-<p align="center">
-  <img src="data-preparation-in-power-bi.svg" height="70"/>
-  <img src="choose-power-bi-model-framework.svg" height="70"/>
-  <img src="overview-data-analysis-power-bi.svg" height="70"/>
-  <img src="introduction-end-analytics-use-microsoft-fabric.svg" height="70"/>
-  <br/>
-  <img src="azure-introduction-to-azure-search.svg" height="70"/>
-  <img src="deploy-consume-models-azure-machine-learning.svg" height="70"/>
-  <img src="deploy-model-managed-online-endpoint.svg" height="70"/>
-  <img src="explore-azure-machine-learning-workspace-resources-assets.svg" height="70"/>
-</p>
 ## 🚀 About Me
 
 - 🔭 Currently building **FactoryIQ Manufacturing Portal**
@@ -39,8 +23,7 @@
 <a href="https://yashu257.github.io/yashwanth-aq-portfolio/" target="blank">
 <img align="center" src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
 </a>
-</p>
-  
+
 <a href="https://github.com/Yashu257" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
@@ -48,11 +31,32 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🏅 Holopin Badges
+
+[![Holopin badges](https://holopin.me/yashu257)](https://holopin.io/@yashu257)
+
+---
+
+## 🏅 Microsoft Learn Achievements
+
+<p align="center">
+  <img src="data-preparation-in-power-bi.svg" height="70"/>
+  <img src="choose-power-bi-model-framework.svg" height="70"/>
+  <img src="overview-data-analysis-power-bi.svg" height="70"/>
+  <img src="introduction-end-analytics-use-microsoft-fabric.svg" height="70"/>
+  <br/>
+  <img src="azure-introduction-to-azure-search.svg" height="70"/>
+  <img src="deploy-consume-models-azure-machine-learning.svg" height="70"/>
+  <img src="deploy-model-managed-online-endpoint.svg" height="70"/>
+  <img src="explore-azure-machine-learning-workspace-resources-assets.svg" height="70"/>
+</p>
+
+---
 
 ## 🛠️ Tech Stack
 
 ### 🚀 Programming & Web
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python" height="40"/>
 <img src="https://skillicons.dev/icons?i=js" height="40"/>
@@ -68,6 +72,7 @@
 ---
 
 ### 🧠 AI / ML & Data
+
 <p align="left">
 <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange" />
 <img src="https://img.shields.io/badge/Deep%20Learning-0A0A0A?style=for-the-badge&logo=pytorch&logoColor=red" />
@@ -82,6 +87,7 @@
 ---
 
 ### 📊 Data Science & Analytics
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=anaconda" height="40"/>
 <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" />
@@ -94,20 +100,23 @@
 ---
 
 ### 🗄️ Databases & Tools
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
 <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
 <img src="https://skillicons.dev/icons?i=git" height="40"/>
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 </p>
+
 ---
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Yashu257&theme=tokyonight&hide_border=true" />
 </p>
+
+---
 
 ## 🚀 Featured Project
 
