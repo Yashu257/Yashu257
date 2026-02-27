@@ -6,10 +6,6 @@
 
 [![Holopin badges](https://holopin.me/yashu257)](https://holopin.io/@yashu257)
 
-🏅 Microsoft Learn Achievements:
-- Prepare data for analysis with Power BI  
-- Choose a Power BI model framework  
-- Introduction to end-to-end analytics using Microsoft Fabric  
 
 ## 🚀 About Me
 
