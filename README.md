@@ -63,9 +63,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yashu257&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashu257&show_icons=true&theme=tokyonight" />
 </p>
-
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashu257&theme=tokyonight" />
 </p>
