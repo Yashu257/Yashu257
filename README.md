@@ -36,7 +36,6 @@
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python" height="40"/>
 <img src="https://skillicons.dev/icons?i=fastapi" height="40"/>
 <img src="https://skillicons.dev/icons?i=react" height="40"/>
 <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
