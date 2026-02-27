@@ -38,6 +38,18 @@
 <img src="https://skillicons.dev/icons?i=vite" height="40"/>
 <img src="https://skillicons.dev/icons?i=git" height="40"/>
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img src="https://skillicons.dev/icons?i=python" height="40"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange" />
+<img src="https://img.shields.io/badge/Deep%20Learning-0A0A0A?style=for-the-badge&logo=pytorch&logoColor=red" />
+<img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-009688?style=for-the-badge" />
+
+<img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
+<img src="https://skillicons.dev/icons?i=pytorch" height="40"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge" />
 
 </p>
 
