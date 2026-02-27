@@ -20,10 +20,10 @@
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="https://github.com/Yashu257" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<a href="https://yashu257.github.io/yashwanth-aq-portfolio/" target="blank">
+<img align="center" src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
 </a>
-
+</p>
   
 <a href="https://github.com/Yashu257" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
