@@ -2,7 +2,9 @@
 <h3 align="center">Python | AI/ML | Full Stack Enthusiast 🚀</h3>
 
 ---
+## 🏅 Holopin Badges
 
+[![Holopin badges](https://holopin.me/yashu257)](https://holopin.io/@yashu257)
 ## 🚀 About Me
 
 - 🔭 Currently building **FactoryIQ Manufacturing Portal**
